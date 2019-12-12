@@ -1,0 +1,30 @@
+html,body{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+slide-page{
+    position: fixed;
+    display: inline-block;
+    width: 100%;
+    height: 100vh;
+    background: #73b9ea;
+}
+
+slide-page h2{
+    color: #fff;
+    display: inline-block;
+    width: 80%;
+    margin: 5vw 0 0 5vw;
+    font-size: 6vw;
+}
+
+slide-page p{
+    color: #fff;
+    display: inline-block;
+    width: 90%;
+    margin: 5vw 0 0 5vw;
+    font-size: 3vw;
+    line-height: 6vw;
+}
